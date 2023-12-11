@@ -34,7 +34,7 @@ const TimelineComponent = () => {
               startDate ="Jan 24"
               endDate="Jun 24 (Intended)"
               role="Upcoming Global IT Intern"
-              description="The generated injected humour, or non-characteristic words etc. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,"
+              description="Excited to embark on my journey as an upcoming Global IT Intern at PepsiCo. Eager to contribute my technical expertise in areas such as NodeJS, React, and database management to enhance PepsiCo's IT infrastructure. Thrilled to be part of a dynamic team, collaborating on innovative solutions for real-world challenges."
             />
 
             <TimelineItem
