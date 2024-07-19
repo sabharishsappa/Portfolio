@@ -18,7 +18,7 @@ function Home2() {
             I am a passionated aspiring <span className="purple"> software developer, Machine Learning </span> Enthusiast with a strong background in web development and proficient in <span className="purple"> C++, C and Java </span>programming Languages. I specialize in <span className="purple">full-stack web development</span>, and I love bringing ideas to life in the digital world.
           <br></br>
           <br></br>
-            I’m pursuing my Bachelor's degree in <span className="purple">Computer Science Engineering </span>in<span className="purple"> NIT Durgapur</span>, West Bengal, where I achieved a commendable <span className="purple">CGPA of 8.84</span>. had a solid understanding of computer science fundamentals such as Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks.
+            I’m pursuing my Bachelor's degree in <span className="purple">Computer Science Engineering </span>in<span className="purple"> NIT Durgapur</span>, West Bengal, where I achieved a commendable <span className="purple">CGPA of 8.92</span>. had a solid understanding of computer science fundamentals such as Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks.
             <br></br>
             <br></br>
               My technical skills include <span className="purple">Node.js, ReactJS, MongoDB, SQL</span>. I am constantly exploring new technologies and seeking to expand my knowledge to stay up-to-date with industry trends.

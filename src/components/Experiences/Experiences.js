@@ -34,7 +34,7 @@ const TimelineComponent = () => {
               startDate ="Jan 24"
               endDate="Jun 24 (Intended)"
               role="Upcoming Global IT Intern"
-              description="Excited to embark on my journey as an upcoming Global IT Intern at PepsiCo. Eager to contribute my technical expertise in areas such as NodeJS, ReactJS, and Database Management. Thrilled to be part of a dynamic team, collaborating on innovative solutions for real-world challenges."
+              description="As a Salesforce Development Intern at PepsiCo, I utilized full stack web development to address marketing cloud challenges by creating custom activity applications, SFMC Cloud Pages, and automation dashboards. I developed two-layer security applications and custom activities, completing their proof of concept to enhance marketing efforts' ROI across various countries."
             />
 
             <TimelineItem
@@ -43,7 +43,7 @@ const TimelineComponent = () => {
               startDate ="May 23"
               endDate="Aug23"
               role="NodeJS Intern"
-              description="Proficient in MERN Tech Stack Development, contributed to innovative tagging system implementation, secured a Gold Badge for exceptional performance."
+              description="During my internship, I proficiently utilized the MERN tech stack to enhance the application, managing databases with MongoDB, handling server-side logic with Node.js, and creating dynamic user interfaces with React. I also implemented an innovative tagging system for status cards, earning a Gold Badge for exceptional performance."
             />
           </div>
         </div>
@@ -71,7 +71,7 @@ const TimelineComponent = () => {
               image={SAEImg}
               company="SAE India Collegiate club"
               startDate ="May 23"
-              endDate="Present"
+              endDate="May 24"
               role="Creative Head"
               description="supervising a team of 80+ people, Contributing to the design and development of the organization's website and guiding successful event organization."
             />
@@ -81,7 +81,7 @@ const TimelineComponent = () => {
               image={TedxImg}
               company="TEDx NIT Durgapur"
               startDate ="May 23"
-              endDate="Present"
+              endDate="May 24"
               role="Senior Executive"
               description="Organizing and Managing this prestigious event, collaborating on design and development of the organization's website, managing visual design initiatives for events."
             />
@@ -90,7 +90,7 @@ const TimelineComponent = () => {
               image={AarohanImg}
               company="Aarohan 2K23"
               startDate ="May 23"
-              endDate="Present"
+              endDate="May 24"
               role="Senior Fest Coordinator"
               description="Managing the Largest Annual Tech fest by Cordinating with other clubs, Designing and execution of the many tech events engaging 250+ participants, receiving positive feedback for effective execution, and contributing significantly to the event's success and memorable experience."
             />
