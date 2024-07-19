@@ -13,8 +13,8 @@ function AboutCard() {
             <br /> Pursuing my Bachelors in Computer Science and Engineering at <span className="purple">NIT Durgapur</span>, West Bengal, I am committed to leveraging technology to solve real-world challenges.
             <br />
             <br></br>
-            Currently, I am an Upcoming <span className="purple">Global IT Intern </span> at
-            <span className="purple">PepsiCo</span>. Excited to contribute my skills in areas such as NodeJS, ReactJS, and Database Management to enhance PepsiCo's IT.
+            Currently, looking for <span className="purple"> Full Stack Developement or Machine Learning </span>Full time or Intern oppurtunities
+            <span className="purple"></span>. Excited to contribute my skills in areas such as NodeJS, ReactJS, Database Management and Machine Learning.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
