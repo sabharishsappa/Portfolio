@@ -10,14 +10,13 @@ function AboutCard() {
           <p style={{ textAlign: "left", marginRight:"100px"}}>
             Hi Everyone, I am <span className="purple">Sabharish Sappa </span>
             from <span className="purple">Visakhapatnam, India.</span>
-            <br /> Pursuing my Bachelors in Computer Science and Engineering at <span className="purple">NIT Durgapur</span>, West Bengal, I am committed to leveraging technology to solve real-world challenges.
+            <br /> I recently graduated with a Bachelors in Computer Science and Engineering at <span className="purple">NIT Durgapur</span>, West Bengal. My passion is harnessing technology to address real-world challenges and drive meaningful change.
             <br />
             <br></br>
-            Currently, looking for <span className="purple"> Full Stack Developement or Machine Learning </span>Full time or Intern oppurtunities
-            <span className="purple"></span>. Excited to contribute my skills in areas such as NodeJS, ReactJS, Database Management and Machine Learning.
+            I am currently, seeking Full Time Oppurtunities or Internships<span className="purple"> Full Stack Developement or Machine Learning </span>. With strong skills in MERN Stack Technology, Database Management, Salesforce Marketing Cloud and Machine Learning, I am excited to contribute to projects that push the boundaries of technology and innovation.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            In addition to coding, I have a range of interests that keep me motivated:
           </p>
           <ul>
             <li className="about-activity">

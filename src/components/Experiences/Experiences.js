@@ -33,7 +33,7 @@ const TimelineComponent = () => {
               company="PepsiCo GBS Hyd"
               startDate ="Jan 24"
               endDate="July 24"
-              role="Upcoming Global IT Intern"
+              role="SDE Intern"
               description="As a Salesforce Development Intern at PepsiCo, I utilized full stack web development to address marketing cloud challenges by creating custom activity applications, SFMC Cloud Pages, and automation dashboards. I developed two-layer security applications and custom activities, completing their proof of concept to enhance marketing efforts' ROI across various countries."
             />
 
